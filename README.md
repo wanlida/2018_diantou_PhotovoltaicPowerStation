@@ -15,6 +15,7 @@
 
 
 http://github.com/your_name/your_repository/raw/master/images_folder/img.jpg
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/row/master/pictures/competition.png)  
+
+![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/competition.png)  
 
 ![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
