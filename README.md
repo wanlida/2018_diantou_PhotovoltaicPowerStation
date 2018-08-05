@@ -1,6 +1,5 @@
 # 2018_diantou_PhotovoltaicPowerStation
-电投_光伏电站人工智能运维大数据处理分析
-[比赛链接](https://www.datafountain.cn/competitions/303/details)  
+[电投_光伏电站人工智能运维大数据处理分析：比赛链接](https://www.datafountain.cn/competitions/303/details)  
 团队成员：  
 [@jlinbb](https://github.com/jlinbb)  
 [@wanlida](https://github.com/wanlida)  
