@@ -37,4 +37,3 @@ XX选用的模型是 xgboost gbdt catboost lgbm，我也试了试catboost 感觉
 
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/xgboost.png)
 
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/强特.png)
