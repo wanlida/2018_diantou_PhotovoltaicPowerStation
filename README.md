@@ -28,8 +28,13 @@
 对于特征处理方面没有做好，暴力特征+特征选择 初赛A榜预计能到 前10
 A榜过拟合比较严重
 ## 向大佬咨询的强特
-![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/cat.png)
-XX选用的模型是 xgboost gbdt catboost lgbm，我也试了试catboost 感觉使用很不熟练，a榜分数也不高，主要是catboost ；类别型特征需要特殊处理
+
+![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/cat.png)  
+
+XX选用的模型是 xgboost gbdt catboost lgbm，我也试了试catboost 感觉使用很不熟练，a榜分数也不高，主要是catboost ；类别型特征需要特殊处理  
+
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/catboost.png)
+
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/xgboost.png)
+
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/强特.png)
