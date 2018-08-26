@@ -23,9 +23,9 @@
 ## b榜排名
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/end_rank.png)
 ## 备注
-保密工作没有做好，很多队伍在github上检索到了我们的代码，已知的某队伍，部分使用我们的代码最终B榜11名
-需要在github上使用英文书写相关信息
-对于特征处理方面没有做好，暴力特征+特征选择 初赛A榜预计能到 前10
+保密工作没有做好，很多队伍在github上检索到了我们的代码，已知的某队伍，部分使用我们的代码最终B榜11名  
+需要在github上使用英文书写相关信息  
+对于特征处理方面没有做好，暴力特征+特征选择 初赛A榜预计能到 前10  
 A榜过拟合比较严重
 ## 向大佬咨询的强特
 
