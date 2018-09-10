@@ -1,5 +1,24 @@
-# 2018_diantou_PhotovoltaicPowerStation
-[电投_光伏电站人工智能运维大数据处理分析：比赛链接](https://www.datafountain.cn/competitions/303/details)  
+# 2018_diantou_PhotovoltaicPowerStation  
+[电投_光伏电站人工智能运维大数据处理分析：比赛链接](https://www.datafountain.cn/competitions/303/details)
+## 依赖库  
+
+* `numpy`  
+* `pandas`
+* `sklearn`
+* `lightgbm`
+* `xgboost`  
+
+## 项目结构
+* `data` : 数据存放地址
+  * `public.test.csv` ：测试数据
+  *  `public.train.csv` : 训练数据
+  * `submit_example.csv` : 提交样本
+* `history_code_please_ignore` : 比赛的时候的代码，请忽略这个文件
+* `pictures` : readme的source picture
+* `result` : 历史提交结果的submit文件
+* `code.ipynb` : 代码文件
+
+
 团队成员：  
 [@jlinbb](https://github.com/jlinbb)  
 [@wanlida](https://github.com/wanlida)  
@@ -27,8 +46,8 @@
 需要在github上使用英文书写相关信息  
 对于特征处理方面没有做好，暴力特征+特征选择 初赛A榜预计能到 前10  
 A榜过拟合比较严重
-## 向大佬咨询的强特
-
+## 向大佬咨询的强特  
+他给我发的catboost的训练记录表
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/cat.png)  
 
 XX选用的模型是 xgboost gbdt catboost lgbm，我也试了试catboost 感觉使用很不熟练，a榜分数也不高，主要是catboost ；类别型特征需要特殊处理  
@@ -36,4 +55,3 @@ XX选用的模型是 xgboost gbdt catboost lgbm，我也试了试catboost 感觉
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/catboost.png)
 
 ![image](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation/raw/master/pictures/xgboost.png)
-
